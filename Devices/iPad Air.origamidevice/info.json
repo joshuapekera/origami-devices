@@ -15,8 +15,8 @@
   "type" : "tablet",
   "platform" : "iOS",
   "screenSize" : [
-    1112,
-    834
+    834,
+    1112
   ],
   "safeArea": {
     "portrait": [
@@ -48,5 +48,10 @@
   ],
   "screenScale" : 2,
   "handsOnTop" : true,
-  "defaultDeviceOrientation" : "LandscapeLeft"
+  "defaultDeviceOrientation": "Portrait",
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
 }

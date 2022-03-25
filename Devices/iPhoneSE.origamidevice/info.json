@@ -48,5 +48,10 @@
     20,
     -4
   ],
-  "screenScale": 2
+  "screenScale": 2,
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
 }

@@ -1,0 +1,47 @@
+{
+  "deviceInsets" : [
+    114,
+    114,
+    570,
+    114
+  ],
+  "deviceImageOffset" : [
+    0,
+    -456
+  ],
+  "deviceImageScale" : 0.5,
+  "handsImageScale" : 0,
+  "mouseInput" : true,
+  "displayName" : "Apple Thunderbolt Display",
+  "key" : "AppleThunderbolt",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    2560,
+    1440
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "Apple Thunderbolt Display.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

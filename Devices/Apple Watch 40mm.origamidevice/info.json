@@ -1,0 +1,59 @@
+{
+  "deviceInsets" : [
+    213,
+    66,
+    213,
+    87
+  ],
+  "deviceImageOffset": [
+    -3,
+    0
+  ],
+  "deviceImageScale" : 1,
+  "handsImageScale" : 0,
+  "displayName" : "Apple Watch 40mm",
+  "key" : "AppleWatch-38mm",
+  "type" : "watch",
+  "platform" : "watchOS",
+  "screenSize" : [
+    162,
+    197
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Pink" : "Frame_Gold_Aluminum.png",
+    "Titanium" : "Frame_Titanium.png",
+    "Gold Stainless Steel" : "Frame_Gold_Stainless_Steel.png",
+    "Space Black Titanium" : "Frame_Space_Black_Titanium.png",
+    "Silver" : "Frame_Silver_Aluminum.png",
+    "Space Black" : "Frame_Space_Black.png",
+    "Stainless Steel" : "Frame_Stainless_Steel.png",
+    "Space Grey" : "Frame_Space_Grey.png",
+    "White Ceramic": "Frame_White_Ceramic.png"
+  },
+  "deviceOverlayImages": {
+    "Pink" : "Overlay_Gold_Aluminum.png",
+    "Titanium" : "Overlay_Titanium.png",
+    "Gold Stainless Steel" : "Overlay_Gold_Stainless_Steel.png",
+    "Space Black Titanium" : "Overlay_Space_Black_Titanium.png",
+    "Silver" : "Overlay_Silver_Aluminum.png",
+    "Space Black" : "Overlay_Space_Black.png",
+    "Stainless Steel" : "Overlay_Stainless_Steel.png",
+    "Space Grey": "Overlay_Space_Grey.png",
+    "White Ceramic": "Overlay_White_Ceramic.png"
+  },
+  "screenScale" : 2
+}

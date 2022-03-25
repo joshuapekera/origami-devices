@@ -1,0 +1,50 @@
+{
+  "key" : "Nexus5-3x",
+  "handsImageOffset" : [
+    0,
+   -20
+  ],
+  "deviceInsets" : [
+    195,
+    64,
+    260,
+    65
+  ],
+  "handsImageScale" : 1.37,
+  "displayName" : "Nexus 5",
+  "type" : "phone",
+  "platform" : "Android",
+  "screenSize" : [
+    360,
+    640
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "Nexus5-3x.png"
+  },
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset" : [
+    50,
+    -4
+  ],
+  "screenScale" : 3
+}

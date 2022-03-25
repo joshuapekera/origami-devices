@@ -1,0 +1,46 @@
+{
+  "deviceInsets" : [
+    14,
+    12,
+    66,
+    15
+  ],
+  "deviceImageOffset" : [
+    -3,
+    -59
+  ],
+  "handsImageScale" : 0,
+  "mouseInput" : true,
+  "displayName" : "Sony TV",
+  "type" : "tv",
+  "platform" : "AndroidTV",
+  "key" : "SonyTV",
+  "screenSize" : [
+    1280,
+    720
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "Sony W850C.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 1,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

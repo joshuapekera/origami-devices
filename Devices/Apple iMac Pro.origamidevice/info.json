@@ -1,0 +1,54 @@
+{
+  "deviceInsets" : [
+    114,
+    114,
+    650,
+    114
+  ],
+  "deviceImageOffset" : [
+    0,
+    -570
+  ],
+  "deviceImageScale" : 0.45,
+  "handsImageScale" : 1.3,
+  "mouseInput" : true,
+  "displayName" : "Apple iMac Pro",
+  "key" : "AppleiMacPro",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    2560,
+    1440
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImages" : [
+  ],
+  "handsImageOffset": [
+    -6,
+    -550
+  ],
+  "deviceImages" : {
+    "Space Grey" : "Apple iMac Pro.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "handsOnTop" : true,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

@@ -1,0 +1,52 @@
+{
+  "handsImageOffset" : [
+    0,
+    10
+  ],
+  "deviceInsets" : [
+    96,
+    260,
+    96,
+    259
+  ],
+  "deviceImageOffset" : [
+    14,
+    13
+  ],
+  "handsImageScale" : 0.84,
+  "displayName" : "Nexus 9",
+  "key" : "Nexus9",
+  "type" : "tablet",
+  "platform" : "Android",
+  "screenSize" : [
+    1024,
+    768
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "Nexus9.png"
+  },
+  "handsImages" : [
+    "x-shared-image:///iPadHands.png"
+  ],
+  "shadowOffset" : [
+    1,
+    -5
+  ],
+  "screenScale" : 2,
+  "handsOnTop" : true,
+  "defaultDeviceOrientation" : "LandscapeLeft"
+}

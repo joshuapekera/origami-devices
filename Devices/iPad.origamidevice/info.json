@@ -1,0 +1,49 @@
+{
+  "handsImageOffset": [
+    0,
+    2
+  ],
+  "deviceInsets": [
+    115,
+    225,
+    112,
+    223
+  ],
+  "handsImageScale": 0.84,
+  "displayName": "iPad",
+  "key": "iPad",
+  "type": "tablet",
+  "platform": "iOS",
+  "screenSize": [
+    1024,
+    768
+  ],
+  "safeArea": {
+    "portrait": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "landscape": [
+      20,
+      0,
+      0,
+      0
+    ]
+  },
+  "deviceImages": {
+    "Black": "Apple iPad Air 2 Space Gray.png",
+    "White": "Apple iPad Air 2 Silver.png"
+  },
+  "handsImages": [
+    "x-shared-image:///iPadHands.png"
+  ],
+  "shadowOffset": [
+    1,
+    -5
+  ],
+  "screenScale": 2,
+  "handsOnTop": true,
+  "defaultDeviceOrientation": "LandscapeLeft"
+}

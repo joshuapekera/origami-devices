@@ -1,0 +1,73 @@
+{
+  "key": "SamsungGalaxyS10+",
+  "displayName": "Galaxy S10+",
+  "platform": "Android",
+  "type" : "phone",
+  "screenScale": 4,
+  "screenSize": [
+    360,
+    760
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale": 1.71,
+  "handsImageOffset": [
+    1,
+    5
+  ],
+  "hasDiverseHands": true,
+  "deviceCornerRadius": 20,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    65,
+    41,
+    103,
+    41
+  ],
+  "deviceImageOffset": [
+    0,
+    -30
+  ],
+  "deviceImages": {
+    "Ceramic White": "Frame_Ceramic_White.png",
+    "Flamingo Pink": "Frame_Flamingo_Pink.png",
+    "Prism Black": "Frame_Prism_Black.png",
+    "Prism Blue": "Frame_Prism_Blue.png",
+    "Prism Green": "Frame_Prism_Green.png",
+    "Prism White": "Frame_Prism_White.png"
+  },
+  "deviceOverlayImages": {
+    "Ceramic White": "Overlay_Ceramic_White.png",
+    "Flamingo Pink": "Overlay_Flamingo_Pink.png",
+    "Prism Black": "Overlay_Prism_Black.png",
+    "Prism Blue": "Overlay_Prism_Blue.png",
+    "Prism Green": "Overlay_Prism_Green.png",
+    "Prism White": "Overlay_Prism_White.png"
+  },
+  "shadowOffset": [
+    0,
+    -4
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
+}

@@ -1,0 +1,53 @@
+{
+  "deviceInsets" : [
+    178,
+    167,
+    1309,
+    167
+  ],
+  "deviceImageOffset" : [
+    0,
+    -1155
+  ],
+  "handsImageScale" : 1.00,
+  "mouseInput" : true,
+  "displayName" : "Dell Ultra Sharp HD",
+  "key" : "DellUltraSharpHD",
+  "type" : "computer",
+  "platform" : "Windows",
+  "screenSize" : [
+    2560,
+    1440
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImages" : [
+  ],
+  "handsImageOffset": [
+    -6,
+    -550
+  ],
+  "deviceImages" : {
+    "Black" : "Dell UltraSharp 5K Monitor 27.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "handsOnTop" : true,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

@@ -1,0 +1,69 @@
+{
+  "key": "iphone13pro",
+  "displayName": "iPhone 13 Pro",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 3,
+  "screenSize": [
+    390,
+    844
+  ],
+  "safeArea": {
+    "portrait": [
+      47,
+      0,
+      34,
+      0
+    ],
+    "landscape": [
+      0,
+      47,
+      21,
+      47
+    ]
+  },
+  "handsImageScale": 1.5,
+  "handsImageOffset": [
+    0,
+    -14
+  ],
+  "hasDiverseHands": true,
+  "deviceCornerRadius": 20,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    62,
+    63,
+    62,
+    63
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Gold": "iPhone13ProGold.png",
+    "Graphite": "iPhone13ProGraphite.png",
+    "Sierra Blue": "iPhone13ProSierraBlue.png",
+    "Silver": "iPhone13ProSilver.png"
+  },
+  "deviceOverlayImages": {
+    "Gold": "iPhone13ProGoldOverlay.png",
+    "Graphite": "iPhone13ProGraphiteOverlay.png",
+    "Sierra Blue": "iPhone13ProSierraBlueOverlay.png",
+    "Silver": "iPhone13ProSilverOverlay.png"
+  },
+  "shadowOffset": [
+    0,
+    -2
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

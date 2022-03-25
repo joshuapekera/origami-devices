@@ -1,0 +1,54 @@
+{
+  "deviceInsets" : [
+    414,
+    414,
+    414,
+    414
+  ],
+  "deviceImageOffset" : [
+    0,
+    -0
+  ],
+  "deviceImageScale" : 1.0,
+  "handsImageScale" : 1.0,
+  "mouseInput" : true,
+  "displayName" : "Apple Pro Display XDR",
+  "key" : "AppleProDisplayXDR",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    3008,
+    1692
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImages" : [
+    "Stand.png"
+  ],
+  "handsImageOffset": [
+    -6,
+    -800
+  ],
+  "deviceImages" : {
+    "Default" : "AppleProDisplayXDR.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : true,
+  "supportsDeviceOrientationLandscapeRight" : true,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : true
+}

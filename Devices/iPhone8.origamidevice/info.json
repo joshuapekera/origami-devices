@@ -1,0 +1,52 @@
+{
+  "key": "iPhone6",
+  "displayName": "iPhone 8",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 2,
+  "screenSize": [
+    375,
+    667
+  ],
+  "safeArea": {
+    "portrait": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "landscape": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "handsImageScale": 0.99,
+  "handsImageOffset": [
+    1,
+    -3
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    219,
+    60,
+    223,
+    61
+  ],
+  "deviceImages": {
+    "Gold": "Frame_Gold.png",
+    "Silver": "Frame_Silver.png",
+    "Space Grey": "Frame_SpaceGrey.png"
+  },
+  "shadowOffset": [
+    15,
+    -6
+  ]
+}

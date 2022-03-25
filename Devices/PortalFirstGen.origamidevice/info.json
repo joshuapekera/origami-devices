@@ -1,0 +1,44 @@
+{
+  "key" : "PortalFirstGen",
+  "displayName" : "Facebook Portal (1st Gen)",
+  "type" : "home",
+  "platform" : "Android",
+  "mouseInput" : false,
+  "deviceImageScale" : 1,
+  "screenSize" : [
+    1280,
+    800
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceInsets" : [
+    200,
+    25,
+    350,
+    25
+  ],
+  "deviceImages" : {
+    "White" : "Frame_White.png",
+    "White (On Call)" : "Frame_White_OnCall.png",
+    "Black" : "Frame_Black.png",
+    "Black (On Call)" : "Frame_Black_OnCall.png"
+  },
+  "screenScale" : 1,
+  "defaultInterfaceOrientation": "Landscape",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": false,
+  "supportsDeviceOrientationLandscapeRight": false,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

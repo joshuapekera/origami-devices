@@ -1,0 +1,50 @@
+{
+  "handsImageOffset" : [
+    0,
+    -4
+  ],
+  "deviceInsets" : [
+    189,
+    55,
+    158,
+    59
+  ],
+  "handsImageScale" : 0.92,
+  "displayName" : "Moto G",
+  "key" : "MotoG",
+  "type" : "phone",
+  "platform" : "Android",
+  "screenSize" : [
+    360,
+    640
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "MotoG.png"
+  },
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset" : [
+    3,
+    -4
+  ],
+  "screenScale" : 2
+}

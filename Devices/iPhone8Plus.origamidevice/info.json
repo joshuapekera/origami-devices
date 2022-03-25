@@ -1,0 +1,52 @@
+{
+  "key": "iPhone6Plus",
+  "displayName": "iPhone 8 Plus",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 3,
+  "screenSize": [
+    414,
+    736
+  ],
+  "safeArea": {
+    "portrait": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "landscape": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "handsImageScale": 1.64,
+  "handsImageOffset": [
+    0,
+    -6
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    335,
+    96,
+    333,
+    98
+  ],
+  "deviceImages": {
+    "Gold": "Frame_Gold.png",
+    "Silver": "Frame_Silver.png",
+    "Space Grey": "Frame_SpaceGrey.png"
+  },
+  "shadowOffset": [
+    20,
+    -4
+  ]
+}

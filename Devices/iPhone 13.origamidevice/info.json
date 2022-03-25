@@ -1,0 +1,71 @@
+{
+  "key": "iPhone13",
+  "displayName": "iPhone 13",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 3,
+  "screenSize": [
+    390,
+    844
+  ],
+  "safeArea": {
+    "portrait": [
+      47,
+      0,
+      34,
+      0
+    ],
+    "landscape": [
+      0,
+      47,
+      21,
+      47
+    ]
+  },
+  "handsImageScale": 1.50,
+  "handsImageOffset": [
+    0,
+    -14
+  ],
+  "hasDiverseHands": true,
+  "deviceCornerRadius": 20,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    62,
+    63,
+    62,
+    63
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Midnight": "iPhone13Midnight.png",
+    "Blue": "iPhone13Blue.png",
+    "Pink": "iPhone13Pink.png",
+    "Red": "iPhone13Red.png",
+    "Starlight": "iPhone13Starlight.png"
+  },
+  "deviceOverlayImages": {
+    "Midnight": "iPhone13MidnightOverlay.png",
+    "Blue": "iPhone13BlueOverlay.png",
+    "Pink": "iPhone13PinkOverlay.png",
+    "Red": "iPhone13RedOverlay.png",
+    "Starlight": "iPhone13StarlightOverlay.png"
+  },
+  "shadowOffset": [
+    0,
+    -2
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
+}

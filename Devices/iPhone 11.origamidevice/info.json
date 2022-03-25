@@ -1,0 +1,72 @@
+{
+  "key": "iPhoneXR",
+  "displayName": "iPhone 11",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 2,
+  "screenSize": [
+    414,
+    896
+  ],
+  "safeArea": {
+    "portrait": [
+      48,
+      0,
+      34,
+      0
+    ],
+    "landscape": [
+      0,
+      48,
+      21,
+      48
+    ]
+  },
+  "handsImageScale": 1.1,
+  "handsImageOffset": [
+    0,
+    -14
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    77,
+    85,
+    77,
+    85
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Red": "Frame_Red.png",
+    "Yellow": "Frame_Yellow.png",
+    "Purple": "Frame_Purple.png",
+    "Green": "Frame_Green.png",
+    "White": "Frame_White.png",
+    "Black": "Frame_Black.png"
+  },
+  "deviceOverlayImages": {
+    "Red": "Overlay_Red.png",
+    "Yellow": "Overlay_Yellow.png",
+    "Purple": "Overlay_Purple.png",
+    "Green": "Overlay_Green.png",
+    "White": "Overlay_White.png",
+    "Black": "Overlay_Black.png"
+  },
+  "shadowOffset": [
+    0,
+    -8
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

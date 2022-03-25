@@ -1,0 +1,66 @@
+{
+  "key": "GooglePixelXL3",
+  "displayName": "Google Pixel 3 XL",
+  "platform": "Android",
+  "type" : "phone",
+  "screenScale": 3.5,
+  "screenSize": [
+    411,
+    846
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale": 1.82,
+  "handsImageOffset": [
+    0,
+    0
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    243,
+    99,
+    243,
+    99
+  ],
+  "deviceImageOffset": [
+    -10,
+    -140
+  ],
+  "deviceImages": {
+    "Just Black": "Frame_JustBlack.png",
+    "Clearly White": "Frame_ClearlyWhite.png",
+    "Not Pink": "Frame_NotPink.png"
+  },
+  "deviceOverlayImages": {
+    "Just Black": "Frame_Overlay_JustBlack.png",
+    "Clearly White": "Frame_Overlay_ClearlyWhite.png",
+    "Not Pink": "Frame_Overlay_NoPink.png"
+  },
+  "shadowOffset": [
+    10,
+    -11
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

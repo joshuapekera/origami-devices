@@ -1,0 +1,54 @@
+{
+  "handsImageOffset" : [
+    0,
+    -34
+  ],
+  "deviceInsets" : [
+    156,
+    48,
+    144,
+    46
+  ],
+  "deviceImageOffset" : [
+    2,
+    12
+  ],
+  "handsImageScale" : 0.63,
+  "displayName" : "Galaxy S Duos",
+  "key" : "GalaxySDuos",
+  "type" : "phone",
+  "platform" : "Android",
+  "screenSize" : [
+    480,
+    800
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "White" : "Samsung Galaxy S Duos.png"
+  },
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset" : [
+    0,
+    -6
+  ],
+  "screenScale" : 1
+}

@@ -1,0 +1,48 @@
+{
+  "deviceInsets" : [
+    134,
+    453,
+    253,
+    453
+  ],
+  "deviceImageOffset" : [
+    0,
+    -92
+  ],
+  "handsImageScale" : 0,
+  "mouseInput" : true,
+  "displayName" : "MacBook Pro 15\"",
+  "key" : "MacBookPro-15",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    1440,
+    900
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Silver" : "Silver.png",
+    "Space Grey" : "Space Grey.png"
+
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

@@ -1,0 +1,67 @@
+{
+  "key": "SamsungGalaxyS20+",
+  "displayName": "Galaxy S20+",
+  "platform": "Android",
+  "type" : "phone",
+  "screenScale": 4,
+  "screenSize": [
+    360,
+    800
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale": 1.74,
+  "handsImageOffset": [
+    1,
+    5
+  ],
+  "hasDiverseHands": true,
+  "deviceCornerRadius": 20,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    100,
+    48,
+    166,
+    48
+  ],
+  "deviceImageOffset": [
+    0,
+    -30
+  ],
+  "deviceImages": {
+    "Cloud Blue": "Samsung_Galaxy_S20+_Cloud_Blue.png",
+    "Cosmic Black": "Samsung_Galaxy_S20+_Cosmic_Black.png",
+    "Cosmic Gray": "Samsung_Galaxy_S20+_Cosmic_Gray.png"
+  },
+  "deviceOverlayImages": {
+    "Cloud Blue": "Cloud_Blue_Overlay.png",
+    "Cosmic Black": "Cosmic_Black_Overlay.png",
+    "Cosmic Gray": "Cosmic_Gray_Overlay.png"
+  },
+  "shadowOffset": [
+    0,
+    -26
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
+}

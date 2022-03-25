@@ -1,0 +1,62 @@
+{
+  "key" : "GooglePixel4",
+  "displayName" : "Google Pixel 4",
+  "platform" : "Android",
+  "type" : "phone",
+  "screenScale" : 2.65,
+  "screenSize" : [
+    411,
+    869
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale" : 1.32,
+  "handsImageOffset" : [
+    0,
+    -7
+  ],
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets" : [
+    150,
+    0,
+    150,
+    20
+  ],
+  "deviceImageOffset": [
+    0,
+    68
+  ],
+  "deviceImageScale": 0.99,
+  "deviceImages" : {
+    "Clearly White" : "Frame_ClearlyWhite.png",
+    "Just Black" : "Frame_JustBlack.png",
+    "Oh So Orange" : "Frame_OhSoOrange.png"
+  },
+  "deviceOverlayImages": {
+    "Clearly White": "Frame_Overlay.png",
+    "Just Black": "Frame_Overlay.png",
+    "Oh So Orange": "Frame_Overlay.png"
+  },
+  "shadowOffset" : [
+    20,
+    -30
+  ] 
+}

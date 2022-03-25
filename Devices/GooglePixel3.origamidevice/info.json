@@ -1,0 +1,63 @@
+{
+  "key" : "GooglePixel3",
+  "displayName" : "Google Pixel 3",
+  "platform" : "Android",
+  "type" : "phone",
+  "screenScale" : 2.65,
+  "screenSize" : [
+    411,
+    823
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale" : 1.36,
+  "handsImageOffset" : [
+    0,
+    0
+  ],
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets" : [
+    296,
+    59,
+    302,
+    71
+  ],
+  "deviceImageOffset": [
+    -12,
+    12
+  ],
+  "deviceImageScale": 0.99,
+  "deviceImages" : {
+    "Clearly White" : "Frame_ClearlyWhite.png",
+    "Just Black" : "Frame_JustBlack.png",
+    "Not Pink" : "Frame_NotPink.png"
+  },
+  "deviceOverlayImages": {
+    "Clearly White": "Frame_Overlay.png",
+    "Just Black": "Frame_Overlay.png",
+    "Not Pink": "Frame_Overlay.png"
+
+  },
+  "shadowOffset" : [
+    20,
+    -46
+  ] 
+}

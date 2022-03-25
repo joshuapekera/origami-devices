@@ -1,0 +1,48 @@
+{
+  "deviceInsets" : [
+    134,
+    134,
+    134,
+    134
+  ],
+  "deviceImageOffset" : [
+    0,
+    -50
+  ],
+  "handsImageScale" : 0,
+  "mouseInput" : true,
+  "displayName" : "MacBook Air",
+  "key" : "MacBookAir",
+  "type" : "computer",
+  "platform" : "OSX",
+  "screenSize" : [
+    1280,
+    800
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Gold" : "Apple MacBook Air Gold.png",
+    "Space Grey" : "Apple MacBook Air Space Grey.png",
+    "Silver" : "Apple MacBook Air Silver.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

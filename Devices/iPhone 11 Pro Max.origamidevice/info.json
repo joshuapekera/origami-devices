@@ -1,0 +1,68 @@
+{
+  "key": "iPhoneXS Max",
+  "displayName": "iPhone 11 Pro Max",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 3,
+  "screenSize": [
+    414,
+    896
+  ],
+  "safeArea": {
+    "portrait": [
+      44,
+      0,
+      34,
+      0
+    ],
+    "landscape": [
+      0,
+      44,
+      21,
+      44
+    ]
+  },
+  "handsImageScale": 1.6008,
+  "handsImageOffset": [
+    0,
+    -10
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    79,
+    85,
+    77,
+    85
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Midnight Green": "Frame_Midnight_Green.png",
+    "Gold": "Frame_Gold.png",
+    "Silver": "Frame_Silver.png",
+    "Space Grey": "Frame_Space_Grey.png"
+  },
+  "deviceOverlayImages": {
+    "Midnight Green": "Overlay_Midnight_Green.png",
+    "Gold": "Overlay_Gold.png",
+    "Silver": "Overlay_Silver.png",
+    "Space Grey": "Overlay_Space_Grey.png"
+  },
+  "shadowOffset": [
+    0,
+    -3
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

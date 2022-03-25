@@ -1,0 +1,42 @@
+{
+  "key" : "PortalTV",
+  "displayName" : "Facebook Portal TV",
+  "type" : "home",
+  "platform" : "Android",
+  "mouseInput" : false,
+  "deviceImageScale" : 1,
+  "screenSize" : [
+    1920,
+    1080
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceInsets" : [
+    200,
+    200,
+    200,
+    200
+  ],
+  "deviceImages" : {
+    "Black" : "Frame.png",
+    "Black (On Call)" : "Frame_OnCall.png"
+  },
+  "screenScale" : 1,
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": false,
+  "supportsDeviceOrientationLandscapeRight": false,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

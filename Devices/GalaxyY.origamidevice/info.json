@@ -1,0 +1,51 @@
+{
+  "handsImageOffset" : [
+    0,
+    -54
+  ],
+  "deviceInsets" : [
+    232,
+    72,
+    234,
+    74
+  ],
+  "deviceImageScale" : 2,
+  "handsImageScale" : 0.35,
+  "displayName" : "Galaxy Y",
+  "screenSize" : [
+    320,
+    427
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "key" : "GalaxyY",
+  "type" : "phone",
+  "platform" : "Android",
+  "deviceImages" : {
+    "White" : "GalaxyY-White.png"
+  },
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset" : [
+    0,
+    -5
+  ],
+  "screenScale" : 0.75
+}

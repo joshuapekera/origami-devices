@@ -1,0 +1,60 @@
+{
+  "key": "iPadPro",
+  "displayName": "iPad Pro 12.9\"",
+  "platform": "iOS",
+  "type": "tablet",
+  "screenScale": 2,
+  "screenSize": [
+    1366,
+    1024
+  ],
+  "safeArea": {
+    "portrait": [
+      24,
+      0,
+      20,
+      0
+    ],
+    "landscape": [
+      24,
+      0,
+      20,
+      0
+    ]
+  },
+  "handsImageScale": 1.0,
+  "handsImageOffset": [
+    -6,
+    -240
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPadHands.png"
+  ],
+  "deviceInsets": [
+    90,
+    125,
+    90,
+    125
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Silver": "Frame_iPad_Pro_13_Silver.png",
+    "Space Grey": "Frame_iPad_Pro_13_Space_Grey.png"
+  },
+  "deviceOverlayImages": {
+    "Silver": "Overlay_iPad_Pro_13_Silver.png",
+    "Space Grey": "Overlay_iPad_Pro_13_Space_Grey.png"
+  },
+  "shadowOffset": [
+    1,
+    -2
+  ],
+
+  "handsOnTop": true,
+  "defaultDeviceOrientation": "LandscapeLeft",
+  "defaultInterfaceOrientation": "Portrait"
+}

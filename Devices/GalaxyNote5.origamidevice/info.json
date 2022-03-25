@@ -1,0 +1,51 @@
+{
+  "handsImageOffset" : [
+    0,
+    -4
+  ],
+  "deviceInsets" : [
+    290,
+    66,
+    267,
+    60
+  ],
+  "deviceImageScale" : 2,
+  "handsImageScale" : 0.88,
+  "displayName" : "Galaxy Note 5",
+  "key" : "GalaxyNote5",
+  "type" : "phone",
+  "platform" : "Android",
+  "screenSize" : [
+    360,
+    640
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "White" : "GalaxyNote5-White.png"
+  },
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset" : [
+    5,
+    -5
+  ],
+  "screenScale" : 2
+}

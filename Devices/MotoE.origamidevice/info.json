@@ -1,0 +1,55 @@
+{
+  "handsImageOffset" : [
+    0,
+    -56
+  ],
+  "deviceInsets" : [
+    185,
+    55,
+    120,
+    63
+  ],
+  "deviceImageOffset" : [
+    -8,
+    65
+  ],
+  "handsImageScale" : 0.74,
+  "displayName" : "Moto E",
+  "screenSize" : [
+    360,
+    640
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "key" : "MotoE",
+  "type" : "phone",
+  "platform" : "Android",
+  "deviceImages" : {
+    "Black" : "Motorola Moto E Black.png",
+    "White" : "Motorola Moto E White.png"
+  },
+  "hasDiverseHands" : true,
+  "handsImages" : [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset" : [
+    0,
+    -8
+  ],
+  "screenScale" : 1.5
+}

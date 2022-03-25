@@ -1,0 +1,40 @@
+{
+  "deviceInsets" : [
+    186,
+    60,
+    230,
+    60
+  ],
+  "deviceImageOffset" : [
+    0,
+    -44
+  ],
+  "handsImageScale" : 0,
+  "displayName" : "Sony SmartWatch",
+  "key" : "SonySmartWatch",
+  "type" : "watch",
+  "platform" : "AndroidWear",
+  "screenSize" : [
+    213,
+    213
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "Sony SmartWatch 3 Black Closed.png",
+    "White" : "Sony SmartWatch 3 White Closed.png"
+  },
+  "screenScale" : 1.5
+}

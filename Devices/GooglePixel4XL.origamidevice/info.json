@@ -1,0 +1,66 @@
+{
+  "key": "GooglePixelXL4",
+  "displayName": "Google Pixel 4 XL",
+  "platform": "Android",
+  "type" : "phone",
+  "screenScale": 3.5,
+  "screenSize": [
+    411,
+    869
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale": 1.77,
+  "handsImageOffset": [
+    0,
+    -7
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    243,
+    0,
+    243,
+    0
+  ],
+  "deviceImageOffset": [
+    10,
+    105
+  ],
+  "deviceImages": {
+    "Just Black": "Frame_JustBlack.png",
+    "Clearly White": "Frame_ClearlyWhite.png",
+    "Oh So Orange": "Frame_OhSoOrange.png"
+  },
+  "deviceOverlayImages": {
+    "Just Black": "Frame_Overlay.png",
+    "Clearly White": "Frame_Overlay.png",
+    "Oh So Orange": "Frame_Overlay.png"
+  },
+  "shadowOffset": [
+    0,
+    -49
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": false
+}

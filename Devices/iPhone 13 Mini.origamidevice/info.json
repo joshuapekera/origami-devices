@@ -1,0 +1,71 @@
+{
+  "key": "iPhone13Mini",
+  "displayName": "iPhone 13 Mini",
+  "platform": "iOS",
+  "type": "phone",
+  "screenScale": 2.88,
+  "screenSize": [
+    375,
+    812
+  ],
+  "safeArea": {
+    "portrait": [
+      50,
+      0,
+      34,
+      0
+    ],
+    "landscape": [
+      0,
+      50,
+      21,
+      50
+    ]
+  },
+  "handsImageScale": 1.4,
+  "handsImageOffset": [
+    0,
+    -14
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    62,
+    63,
+    62,
+    63
+  ],
+  "deviceImageOffset": [
+    0,
+    0
+  ],
+  "deviceImages": {
+    "Midnight": "iPhone13MiniMidnight.png",
+    "Blue": "iPhone13MiniBlue.png",
+    "Pink": "iPhone13MiniPink.png",
+    "Red": "iPhone13MiniRed.png",
+    "Starlight": "iPhone13MiniStarlight.png"
+  },
+  "deviceOverlayImages": {
+    "Midnight": "iPhone13MiniMidnightOverlay.png",
+    "Blue": "iPhone13MiniBlueOverlay.png",
+    "Pink": "iPhone13MiniPinkOverlay.png",
+    "Red": "iPhone13MiniRedOverlay.png",
+    "Starlight": "iPhone13MiniStarlightOverlay.png"
+
+  },
+  "shadowOffset": [
+    0,
+    -4
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
+}

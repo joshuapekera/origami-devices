@@ -1,0 +1,46 @@
+{
+  "deviceInsets" : [
+    58,
+    676,
+    426,
+    676
+  ],
+  "deviceImageOffset" : [
+    0,
+    -349
+  ],
+  "handsImageScale" : 0,
+  "mouseInput" : true,
+  "displayName" : "Dell XPS 15",
+  "key" : "DellXPS15",
+  "type" : "computer",
+  "platform" : "Windows",
+  "screenSize" : [
+    1920,
+    1080
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+    "Black" : "Dell XPS 15.png"
+  },
+  "viewerWindowNative" : false,
+  "screenScale" : 2,
+  "defaultDeviceOrientation" : "LandscapeLeft",
+  "supportsDeviceOrientationPortrait" : false,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}

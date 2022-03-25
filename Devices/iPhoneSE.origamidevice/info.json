@@ -1,0 +1,52 @@
+{
+  "handsImageOffset": [
+    0,
+    10
+  ],
+  "deviceInsets": [
+    237,
+    64,
+    221,
+    56
+  ],
+  "handsImageScale": 0.86,
+  "displayName": "iPhone SE",
+  "key": "iPhone5",
+  "type": "phone",
+  "platform": "iOS",
+  "screenSize": [
+    320,
+    568
+  ],
+  "safeArea": {
+    "portrait": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "landscape": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "deviceImages": {
+    "Black": "Apple iPhone SE Space Gray.png",
+    "Rose Gold": "Apple iPhone SE Rose Gold.png",
+    "White": "Apple iPhone SE Silver.png"
+  },
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "shadowOffset": [
+    20,
+    -4
+  ],
+  "screenScale": 2
+}

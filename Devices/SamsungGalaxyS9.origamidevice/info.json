@@ -1,0 +1,72 @@
+{
+  "key": "SamsungGalaxyS8",
+  "displayName": "Galaxy S9",
+  "platform": "Android",
+  "type" : "phone",
+  "screenScale": 4,
+  "screenSize": [
+    360,
+    740
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "handsImageScale": 1.75,
+  "handsImageOffset": [
+    0,
+    0
+  ],
+  "hasDiverseHands": true,
+  "handsImages": [
+    "x-shared-image:///iPhoneHands.png",
+    "x-shared-image:///iPhoneHands2.png",
+    "x-shared-image:///iPhoneHands3.png",
+    "x-shared-image:///iPhoneHands4.png"
+  ],
+  "deviceInsets": [
+    187,
+    48,
+    166,
+    48
+  ],
+  "deviceImageOffset": [
+    0,
+    2
+  ],
+  "deviceImages": {
+    "Burgundy Red": "Frame_BurgundyRed.png",
+    "Coral Blue": "Frame_CoralBlue.png",
+    "Lilac Purple": "Frame_LilacPurple.png",
+    "Midnight Black": "Frame_MidnightBlack.png",
+    "Sunrise Gold": "Frame_SunriseGold.png",
+    "Titanium Gray": "Frame_TitaniumGray.png"
+  },
+  "deviceOverlayImages": {
+    "Burgundy Red": "Frame_Overlay.png",
+    "Coral Blue": "Frame_Overlay.png",
+    "Lilac Purple": "Frame_Overlay.png",
+    "Midnight Black": "Frame_Overlay.png",
+    "Sunrise Gold": "Frame_Overlay.png",
+    "Titanium Gray": "Frame_Overlay.png"
+  },
+  "shadowOffset": [
+    0,
+    -6
+  ],
+  "defaultInterfaceOrientation": "Portrait",
+  "supportsDeviceOrientationPortrait": true,
+  "supportsDeviceOrientationLandscapeLeft": true,
+  "supportsDeviceOrientationLandscapeRight": true,
+  "supportsDeviceOrientationPortraitUpsideDown": true
+}
